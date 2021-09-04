@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @YA-CIAO-LIANG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @YA-CIAO-LIANG 梁雅喬
+- 👀 I’m interested in ... 藝術、程式設計、物聯網
+- 🌱 I’m currently learning ...以上事物↑
 
-<!---
-YA-CIAO-LIANG/YA-CIAO-LIANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
